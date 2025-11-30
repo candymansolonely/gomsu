@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        REPO_URL = "https://github.com/LHTrungSkySP/shop-client-minhtrang.git"
+        REPO_URL = "https://github.com/candymansolonely/gomsu.git"
         IMAGE_NAME = "gomsu-fe"
         CONTAINER_NAME = "gomsu-fe"
         PORT_HOST = "1003"
